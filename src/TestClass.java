@@ -7,4 +7,10 @@ public class TestClass {
         System.out.println("hello world");
     }
 
+    void add(int a){
+
+        System.out.println("rahul");
+    }
+
+
 }
